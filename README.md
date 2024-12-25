@@ -1,6 +1,6 @@
 Last updated: 25/12/2024
 
-This application (“Application”) is designed to share the latest discount flyers from various well-known markets with users. We value your privacy and strive to protect your personal data rights while you use our Application. This Privacy Policy explains what information we may collect, how we use and protect it, and your choices regarding your personal information.
+This application (“Afişler App”) is designed to share the latest discount flyers from various well-known markets with users. We value your privacy and strive to protect your personal data rights while you use our Application. This Privacy Policy explains what information we may collect, how we use and protect it, and your choices regarding your personal information.
 
 # 1. Information We Collect
 
